@@ -2,11 +2,15 @@
 
 ## ⚡ Sobre mi:
 
+<img src="https://github.com/Franb3/Franb3/blob/main/iconos/ai1.gif" align="right" alt="ai"/>
+
 - ☁️ Una buena organización y comunicación siempre facilita el trabajo
 - 📚 Objetivos: Aprender y repasar código constantemente
 - 👀 Siempre estoy pendiente de las últimas novedades en el área de programación
 - 🤖 Parezco bot
 - 🎧 Me gusta la música, videojuegos, anime y manga
+
+<br>
 
 ## ✨ Habilidades:
 
