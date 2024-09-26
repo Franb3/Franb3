@@ -8,19 +8,7 @@
 - 🤖 Parezco bot
 - 🎧 Me gusta la música, videojuegos, anime y manga
 
-## 🐏 Connect with me:
-
-<img href="https://www.linkedin.com/" src="https://github.com/Franb3/Franb3/blob/main/iconos/linkedin.svg" align="left" alt="linkedin" height='42px'/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Franb3/Franb3/blob/main/iconos/Vercel_light_dark/Vercel_dark.svg" height='42px'>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Franb3/Franb3/blob/main/iconos/Vercel_light_dark/Vercel_light.svg" height='42px'>
-  <img src="https://github.com/Franb3/Franb3/blob/main/iconos/Vercel_light_dark/Vercel_dark.svg" alt="vercel logo" align="left" height='42px'>
-</picture>
-
-<br>
-<br>
-
-## ✨ Languages and Tools:
+## ✨ Habilidades:
 
 <img src="https://github.com/Franb3/Franb3/blob/main/iconos/csharp.svg" align="left" alt="c#" height='42px'/>
 <img src="https://github.com/Franb3/Franb3/blob/main/iconos/php.svg" align="left" alt="php" height="42px"/>
@@ -57,6 +45,18 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Franb3/Franb3/blob/main/iconos/Deno_light_dark/Deno_dark.svg" height='52px'>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Franb3/Franb3/blob/main/iconos/Deno_light_dark/Deno_light.svg" height='52px'>
   <img src="https://github.com/Franb3/Franb3/blob/main/iconos/Deno_light_dark/Deno_dark.svg" alt="deno logo" align="left" height='52px'>
+</picture>
+
+<br>
+<br>
+
+## 🐏 Contactame:
+
+<img href="https://www.linkedin.com/" src="https://github.com/Franb3/Franb3/blob/main/iconos/linkedin.svg" align="left" alt="linkedin" height='42px'/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Franb3/Franb3/blob/main/iconos/Vercel_light_dark/Vercel_dark.svg" height='42px'>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Franb3/Franb3/blob/main/iconos/Vercel_light_dark/Vercel_light.svg" height='42px'>
+  <img src="https://github.com/Franb3/Franb3/blob/main/iconos/Vercel_light_dark/Vercel_dark.svg" alt="vercel logo" align="left" height='42px'>
 </picture>
 
 <br>
