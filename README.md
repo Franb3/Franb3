@@ -2,52 +2,51 @@
 
 ## ⚡ Sobre mi:
 
-<img src="https://github.com/Franb3/Franb3/blob/main/iconos/ai1.gif" align="right" alt="ai"/>
-
 - 👀 Siempre estoy pendiente de las últimas novedades en el área de programación
 - ☁️ Una buena organización y comunicación siempre facilita el trabajo
 - 📚 Objetivos: Aprender y repasar código constantemente
 - 🎧 Me gusta la música, videojuegos, anime y manga
 
-<br>
+<p align="left">
+<img src="https://github.com/Franb3/Franb3/blob/main/iconos/ai1.gif" alt="ai"/>
+</p>
 
 ## ✨ Habilidades:
 
-<img src="https://github.com/Franb3/Franb3/blob/main/iconos/csharp.svg" align="left" alt="c#" height="30px"/>
-<img src="https://github.com/Franb3/Franb3/blob/main/iconos/php.svg" align="left" alt="php" height="30px"/>
+<p align="left">
+<img src="https://github.com/Franb3/Franb3/blob/main/iconos/csharp.svg" alt="c#" height="35px"/>
+<img src="https://github.com/Franb3/Franb3/blob/main/iconos/php.svg" alt="php" height="35px"/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Franb3/Franb3/blob/main/iconos/Deno_light_dark/Deno_dark.svg" height="30px">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Franb3/Franb3/blob/main/iconos/Deno_light_dark/Deno_light.svg" height="30px">
-  <img src="https://github.com/Franb3/Franb3/blob/main/iconos/Deno_light_dark/Deno_dark.svg" alt="deno logo" align="left" height="30px">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Franb3/Franb3/blob/main/iconos/Deno_light_dark/Deno_dark.svg" height="35px">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Franb3/Franb3/blob/main/iconos/Deno_light_dark/Deno_light.svg" height="35px">
+  <img src="https://github.com/Franb3/Franb3/blob/main/iconos/Deno_light_dark/Deno_dark.svg" alt="deno logo" height="35px">
 </picture>
-<img src="https://github.com/Franb3/Franb3/blob/main/iconos/jquery.svg" align="left" alt="jquery" height="30px"/>
-<img src="https://github.com/Franb3/Franb3/blob/main/iconos/java.svg" align="left" alt="java" height="30px"/>
-<img src="https://github.com/Franb3/Franb3/blob/main/iconos/python.svg" align="left" alt="python" height="30px"/>
-<img src="https://github.com/Franb3/Franb3/blob/main/iconos/javascript.svg" align="left" alt="javascript" height="30px"/>
-<img src="https://github.com/Franb3/Franb3/blob/main/iconos/html5.svg" align="left" alt="html" height="30px"/>
-<img src="https://github.com/Franb3/Franb3/blob/main/iconos/css.svg" align="left" alt="css" height="30px"/>
-<img src="https://github.com/Franb3/Franb3/blob/main/iconos/react.svg" align="left" alt="react" height="30px"/>
-<img src="https://github.com/Franb3/Franb3/blob/main/iconos/nodejs.svg" align="left" alt="node" height="30px"/>
+<img src="https://github.com/Franb3/Franb3/blob/main/iconos/jquery.svg" alt="jquery" height="35px"/>
+<img src="https://github.com/Franb3/Franb3/blob/main/iconos/java.svg" alt="java" height="35px"/>
+<img src="https://github.com/Franb3/Franb3/blob/main/iconos/python.svg" alt="python" height="35px"/>
+<img src="https://github.com/Franb3/Franb3/blob/main/iconos/javascript.svg" alt="javascript" height="30px"/>
+<img src="https://github.com/Franb3/Franb3/blob/main/iconos/html5.svg" alt="html" height="30px"/>
+<img src="https://github.com/Franb3/Franb3/blob/main/iconos/css.svg" alt="css" height="30px"/>
+<img src="https://github.com/Franb3/Franb3/blob/main/iconos/react.svg" alt="react" height="30px"/>
+<img src="https://github.com/Franb3/Franb3/blob/main/iconos/nodejs.svg" alt="node" height="30px"/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Franb3/Franb3/blob/main/iconos/Express.js_light_dark/Express.js_dark.svg" height="30px">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Franb3/Franb3/blob/main/iconos/Express.js_light_dark/Express.js_light.svg" height="30px">
-  <img src="https://github.com/Franb3/Franb3/blob/main/iconos/Express.js_light_dark/Express.js_dark.svg" alt="express logo" align="left" height="30px">
+  <img src="https://github.com/Franb3/Franb3/blob/main/iconos/Express.js_light_dark/Express.js_dark.svg" alt="express logo" height="30px">
 </picture>
-<img src="https://github.com/Franb3/Franb3/blob/main/iconos/mongodb.svg" align="left" alt="mongo" height="30px"/>
-<img src="https://github.com/Franb3/Franb3/blob/main/iconos/mysql.svg" align="left" alt="mysql" height="30px"/>
-<img src="https://github.com/Franb3/Franb3/blob/main/iconos/wordpress.svg" align="left" alt="wordpress" height="30px"/>
-<img src="https://github.com/Franb3/Franb3/blob/main/iconos/notion.svg" align="left" alt="notion" height="30px"/>
-<img src="https://github.com/Franb3/Franb3/blob/main/iconos/flutter.svg" align="left" alt="flutter" height="30px"/>
-<img src="https://github.com/Franb3/Franb3/blob/main/iconos/figma.svg" align="left" alt="figma" height="30px"/>
+<img src="https://github.com/Franb3/Franb3/blob/main/iconos/mongodb.svg" alt="mongo" height="30px"/>
+<img src="https://github.com/Franb3/Franb3/blob/main/iconos/mysql.svg" alt="mysql" height="30px"/>
+<img src="https://github.com/Franb3/Franb3/blob/main/iconos/wordpress.svg" alt="wordpress" height="30px"/>
+<img src="https://github.com/Franb3/Franb3/blob/main/iconos/notion.svg" alt="notion" height="30px"/>
+<img src="https://github.com/Franb3/Franb3/blob/main/iconos/flutter.svg" alt="flutter" height="30px"/>
+<img src="https://github.com/Franb3/Franb3/blob/main/iconos/figma.svg" alt="figma" height="30px"/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Franb3/Franb3/blob/main/iconos/Astro_light_dark/Astro_dark.svg" height="30px">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Franb3/Franb3/blob/main/iconos/Astro_light_dark/Astro_light.svg" height="30px">
-  <img src="https://github.com/Franb3/Franb3/blob/main/iconos/Astro_light_dark/Astro_dark.svg" alt="astro logo" align="left" height="30px">
+  <img src="https://github.com/Franb3/Franb3/blob/main/iconos/Astro_light_dark/Astro_dark.svg" alt="astro logo" height="30px">
 </picture>
-<img src="https://github.com/Franb3/Franb3/blob/main/iconos/dart.svg" align="left" alt="dart" height="30px"/>
-
-<br>
-<br>
+<img src="https://github.com/Franb3/Franb3/blob/main/iconos/dart.svg" alt="dart" height="30px"/>
+</p>
 
 ## 🐏 Contactame:
 
@@ -63,3 +62,5 @@
 
 ## ⏳ Principio Kiss
 > "Keep it simple stupid"
+
+</br>
