@@ -11,6 +11,8 @@
 <img src="https://github.com/Franb3/Franb3/blob/main/iconos/ai1.gif" alt="ai"/>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franb3&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## ✨ Habilidades:
 
 <p align="left">
@@ -61,6 +63,7 @@
 <br>
 
 ## ⏳ Principio Kiss
+
 > "Keep it simple stupid"
 
 </br>
