@@ -1,69 +1,91 @@
-# 😼 Bienvenid@s
+<h1 data-importer="text" align="center">Franshesca Barraza Developer Fullstack</h1>
 
-## ⚡ Sobre mi:
+###
 
-- 👀 Siempre estoy pendiente de las últimas novedades en el área de programación
-- ☁️ Una buena organización y comunicación siempre facilita el trabajo
-- 📚 Objetivos: Aprender y repasar código constantemente
-- 🎧 Me gusta la música, videojuegos, anime y manga
+<br clear="both">
 
-<p align="left">
-<img src="https://github.com/Franb3/Franb3/blob/main/iconos/ai1.gif" alt="ai"/>
-</p>
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://raw.githubusercontent.com/Franb3/Franb3/main/iconos/ai1.gif"  />
+</div>
 
-![Top Langs](https://github-readme-stats-kappa-three-65.vercel.app/api/top-langs/?username=Franb3&layout=compact&theme=tokyonight)
+###
 
-## ✨ Habilidades:
+<div data-importer="stats" align="center">
+  <img src="https://github-readme-stats-kappa-three-65.vercel.app/api/top-langs/?username=Franb3&layout=compact&theme=tokyonight"  />
+</div>
 
-<p align="left">
-<img src="https://github.com/Franb3/Franb3/blob/main/iconos/csharp.svg" alt="c#" height="35px"/>
-<img src="https://github.com/Franb3/Franb3/blob/main/iconos/php.svg" alt="php" height="35px"/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Franb3/Franb3/blob/main/iconos/Deno_light_dark/Deno_dark.svg" height="35px">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Franb3/Franb3/blob/main/iconos/Deno_light_dark/Deno_light.svg" height="35px">
-  <img src="https://github.com/Franb3/Franb3/blob/main/iconos/Deno_light_dark/Deno_dark.svg" alt="deno logo" height="35px">
+###
+
+<br clear="both">
+
+<div data-importer="techs" align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="25" alt="react logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="25" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="25" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=black&style=for-the-badge" height="25" alt="astro logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="25" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="25" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="25" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Deno-000000?logo=deno&logoColor=white&style=for-the-badge" height="25" alt="denojs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="25" alt="express logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="25" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="25" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="25" alt="php logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="25" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="25" alt="css logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" height="25" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="25" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="25" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="25" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge" height="25" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" height="25" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="25" alt="github logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="25" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="25" alt="vscode logo"  />
+</div>
+
+###
+
+<h3 data-importer="text" align="center">Portofolio: </h3>
+
+###
+
+###
+
+<br clear="both">
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Franb3/Franb3/pacman-output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Franb3/Franb3/pacman-output/galaga-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Franb3/Franb3/pacman-output/galaga-contribution-graph.svg">
 </picture>
-<img src="https://github.com/Franb3/Franb3/blob/main/iconos/jquery.svg" alt="jquery" height="35px"/>
-<img src="https://github.com/Franb3/Franb3/blob/main/iconos/java.svg" alt="java" height="35px"/>
-<img src="https://github.com/Franb3/Franb3/blob/main/iconos/python.svg" alt="python" height="35px"/>
-<img src="https://github.com/Franb3/Franb3/blob/main/iconos/javascript.svg" alt="javascript" height="30px"/>
-<img src="https://github.com/Franb3/Franb3/blob/main/iconos/html5.svg" alt="html" height="30px"/>
-<img src="https://github.com/Franb3/Franb3/blob/main/iconos/css.svg" alt="css" height="30px"/>
-<img src="https://github.com/Franb3/Franb3/blob/main/iconos/react.svg" alt="react" height="30px"/>
-<img src="https://github.com/Franb3/Franb3/blob/main/iconos/nodejs.svg" alt="node" height="30px"/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Franb3/Franb3/blob/main/iconos/Express.js_light_dark/Express.js_dark.svg" height="30px">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Franb3/Franb3/blob/main/iconos/Express.js_light_dark/Express.js_light.svg" height="30px">
-  <img src="https://github.com/Franb3/Franb3/blob/main/iconos/Express.js_light_dark/Express.js_dark.svg" alt="express logo" height="30px">
-</picture>
-<img src="https://github.com/Franb3/Franb3/blob/main/iconos/mongodb.svg" alt="mongo" height="30px"/>
-<img src="https://github.com/Franb3/Franb3/blob/main/iconos/mysql.svg" alt="mysql" height="30px"/>
-<img src="https://github.com/Franb3/Franb3/blob/main/iconos/wordpress.svg" alt="wordpress" height="30px"/>
-<img src="https://github.com/Franb3/Franb3/blob/main/iconos/notion.svg" alt="notion" height="30px"/>
-<img src="https://github.com/Franb3/Franb3/blob/main/iconos/flutter.svg" alt="flutter" height="30px"/>
-<img src="https://github.com/Franb3/Franb3/blob/main/iconos/figma.svg" alt="figma" height="30px"/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Franb3/Franb3/blob/main/iconos/Astro_light_dark/Astro_dark.svg" height="30px">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Franb3/Franb3/blob/main/iconos/Astro_light_dark/Astro_light.svg" height="30px">
-  <img src="https://github.com/Franb3/Franb3/blob/main/iconos/Astro_light_dark/Astro_dark.svg" alt="astro logo" height="30px">
-</picture>
-<img src="https://github.com/Franb3/Franb3/blob/main/iconos/dart.svg" alt="dart" height="30px"/>
-</p>
 
-## 🐏 Contactame:
-
-<img href="https://www.linkedin.com/" src="https://github.com/Franb3/Franb3/blob/main/iconos/linkedin.svg" align="left" alt="linkedin" height="25px"/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Franb3/Franb3/blob/main/iconos/Vercel_light_dark/Vercel_dark.svg" height="25px">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Franb3/Franb3/blob/main/iconos/Vercel_light_dark/Vercel_light.svg" height="25px">
-  <img src="https://github.com/Franb3/Franb3/blob/main/iconos/Vercel_light_dark/Vercel_dark.svg" alt="vercel logo" align="left" height="25px">
-</picture>
-
-<br>
-<br>
-
-## ⏳ Principio Kiss
-
-> "Keep it simple stupid"
-
-</br>
+###
